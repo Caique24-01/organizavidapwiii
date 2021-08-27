@@ -15,7 +15,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     return view('welcome');
-});
-Route::get('/mytasks', function(){
+}); 
+Route::get('/mytasks', function () {
     return view('welcome');
-})
+});
