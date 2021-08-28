@@ -7,6 +7,6 @@
     </head>
     <body>
         <h1>{{app()->getLocale()}}</h1>
-        <h2>{{ route('login')}}</h2>
+        <h2>{{ route('rotawelcome')}}</h2>
     </body>
 </html>
