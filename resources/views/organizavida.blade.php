@@ -21,5 +21,6 @@
         </style>
     </head>
     <body class="antialiased">
+    <script src="js/meuscript.js"></script>
     </body>
 </html>
