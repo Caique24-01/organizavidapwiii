@@ -16,6 +16,6 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 })->name('rotawelcome'); 
-Route::get('/mytasks', function () {
-    return view('mytaskview');
+Route::get('/organizavida', function () {
+    return view('organizavida');
 });
