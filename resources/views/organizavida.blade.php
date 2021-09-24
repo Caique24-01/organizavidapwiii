@@ -22,6 +22,5 @@
     </head>
     <h1> Organiza Vida - PW III </h1> 
     <body class="antialiased">
-    <script src="js/meuscript.js"></script>
     </body>
 </html>
