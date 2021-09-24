@@ -5,7 +5,7 @@ var __webpack_exports__ = {};
   \***********************************/
 alert("meu script");
 var url = 'https://swapi.dev/api/pessoas/';
-fetch(url + '1/').then(function (response) {
+fetch(url + '1').then(function (response) {
   console.log(response);
 });
 /******/ })()
