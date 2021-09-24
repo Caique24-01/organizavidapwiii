@@ -1,7 +1,7 @@
 alert("meu script");
 
-let url = 'https://swapi.dev/api/pessoas/'
+let url = 'https://swapi.dev/api/people/1/?format=api'
 
-fetch(url + '1').then(function(response){
+fetch(url).then(function(response){
     console.log(response)
 })
