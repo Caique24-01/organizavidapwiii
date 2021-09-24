@@ -1,4 +1,4 @@
-alert("meu script");
+alert("Organiza Vida");
 
 let url = 'https://swapi.dev/api/people/'
 
